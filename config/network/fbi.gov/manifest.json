@@ -1,7 +1,7 @@
 {
-    "serverAddress": "fbi.gov",
-    "serverName": "Federal Bureau of Investigation",
+    "serverAddress": "https://www.usps.com/",
+    "serverName": "United States Postal Service",
     "iconName": "fbi.png",
-    "terminalID": "fbi",
+    "terminalID": "USPS",
     "randomSeed": true
 }
